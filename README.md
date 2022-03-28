@@ -1,5 +1,5 @@
 ## Status
-- 🔭 I’m currently working on [Chill&chat](https://github.com/Chill-and-chat/Chill-chat/)
+- 🔭 I’m currently working on [Chill&chat](https://github.com/Chill-and-chat/)
 - 🌱 I’m currently learning More React native 
 - 💬 Ask me about React native, JS, HTML, CSS and ReactJS
 
