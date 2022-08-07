@@ -1,4 +1,5 @@
 ## 👋 Hi, I'm Alvin!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Javascript;ReactJS;React+native;HTML;CSS;Express;MongoDB;NodeJS;Yarn)](https://git.io/typing-svg)
 ### My Github status
 ![Alvin's Github status](https://github-readme-stats.vercel.app/api?username=CHENG-Alvin)
 
