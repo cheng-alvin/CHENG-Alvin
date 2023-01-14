@@ -15,9 +15,9 @@ I hope you are having a good day, remember to follow me😀!
 ### My life...
 ```js
 while (!dead){
-  eat();
-  study();
-  code();
+  eat("food");
+  study("English", "STEM");
+  code("Javacript");
   sleep();
 }
 ```
