@@ -13,8 +13,8 @@ I hope you are having a good day, remember to follow me😀!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Javascript;ReactJS;React+native;HTML;CSS;Express;MongoDB;NodeJS;Yarn)](https://git.io/typing-svg)
 
 ### My life...
-```ks
-while(!dead){
+```js
+while (!dead){
   eat();
   study();
   code();
