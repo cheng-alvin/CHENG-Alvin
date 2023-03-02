@@ -12,8 +12,9 @@ I hope you are having a good day, remember to follow me😀!
 ### My life...
 ```js
 while (!dead){
+  const subjects = ["english", "maths", "art", "music", "science", "chinese"]
   eat("food");
-  study("English", "STEM");
+  study(subjects);
   code("Javacript");
   sleep();
 }
