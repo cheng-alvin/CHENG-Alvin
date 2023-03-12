@@ -12,7 +12,7 @@ I hope you are having a good day, remember to follow me😀!
 ### My life...
 ```c
 while (!dead){
-  char subjects[][] = {"english", "maths", "art", "music", "science", "chinese"};
+  char *subjects[] = {"english", "maths", "art", "music", "science", "chinese"};
   eat("food");
   study(subjects);
   code("Javacript");
