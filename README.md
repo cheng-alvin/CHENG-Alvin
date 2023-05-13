@@ -17,7 +17,6 @@ I hope you are having a good day, remember to follow me😀!
 - 💭 My dream job is being a **Frontend software engineer at Apple**!
 - 👎 My least favourite subject is **Visual art**!
 - 🌏 I speak **two languages**!
-- 👩‍💻 My tutor **works for canva**!
 
 ### My life... (I guess?)
 ```js
