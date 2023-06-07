@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Alvin!
 ### My Github status
-![Alvin's Github status](https://github-readme-stats.vercel.app/api?username=cheng-alvin)
+![Alvin's Github status](https://github-readme-stats.vercel.app/api?username=torvalds)
 
 ### About me
 Hey there! Good Morning/Afternoon/Evening!
