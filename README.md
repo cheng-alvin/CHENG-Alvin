@@ -10,4 +10,5 @@ Welcome to my GitHub profile! I'm Alvin, a first-year middle school student from
 - 💭 My dream job is being a **Frontend software engineer at Apple**!
 - 👎 My least favourite subject is **Visual art**!
 - 🌏 I speak **two languages**!
-
+- 🐧 Linux Lover (I use Arch BTW!)
+- ⌨️ Vim user (Always using "hjkl"!)
