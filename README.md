@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm Alvin, a first-year middle school student from
 - 📝 My editor of choice is **Visual studio code** from Microsoft!
 - 💭 My dream job is being a **Frontend software engineer at Apple**!
 - 👎 My least favourite subject is **Visual art**!
+- 🍎 Loyal **Apple fanboy**
 - 🌏 I speak **two languages**!
-- 🐧 Linux Lover (I use Arch BTW!)
-- ⌨️ Vim user (Always using "hjkl"!)
+- 🐧 **Linux Lover** (I use Arch BTW!)
+- ⌨️ I am a **Vim** user (Always using "hjkl"!)
