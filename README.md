@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Alvin
+## 👋 G'day, welcome!
 I'm Alvin, a first-year middle school student from Melbourne, Australia. Right now, I'm passionately working on [Durian.js](https://github.com/cheng-alvin/durian.js) which is a Javascript framework that I am working on! In addition, I've also created numerous fun micro-projects of my own and even ran a coding club at my former school to help others.
 
 ### Fun facts about me...
