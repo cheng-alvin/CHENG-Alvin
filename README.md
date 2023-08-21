@@ -8,3 +8,4 @@ I'm Alvin, a first-year middle school student from Melbourne, Australia. Right n
 - 🍎 Loyal **Apple fanboy**
 - 🌏 I speak **two languages**!
 - 🐧 **Linux Lover** (I use Arch BTW!)
+- 🪟 **Windows 黑粉**
