@@ -5,8 +5,6 @@ I'm Alvin, a first-year middle school student from Melbourne, Australia. Right n
 - 😍 My favourite JS framework is **React**!
 - 📝 My editor of choice is **Visual studio code** from Microsoft!
 - 💭 My dream job is being a **Frontend software engineer at Apple**!
-- 👎 My least favourite subject is **Visual art**!
 - 🍎 Loyal **Apple fanboy**
 - 🌏 I speak **two languages**!
 - 🐧 **Linux Lover** (I use Arch BTW!)
-- ⌨️ **Vim** user (Always using "hjkl"!)
