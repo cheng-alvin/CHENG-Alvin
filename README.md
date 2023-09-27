@@ -1,9 +1,9 @@
 ## 👋 G'day, welcome!
-I'm Alvin, a first-year middle school student from Melbourne, Australia. Right now, I'm passionately learning more about programming and refining my skills. In addition, I've also created numerous fun micro-projects of my own and even ran a coding club at my former school to help others.
+I'm Alvin, a first-year middle school student from Melbourne, Australia. Right now, I'm passionately learning about low-level programing. In addition, I've also created numerous fun micro-projects of my own and even ran a coding club at my former school to help others.
 
 ### Fun facts about me...
 - 📝 My editor of choice is **Visual studio code** from Microsoft!
-- 💭 My dream job is being a **Kernel and low-levels engineer at Apple**!
+- 💭 My dream job is being a **Programing language engineer at LLVM/Open source communities**!
 - 🍎 Loyal **Apple fanboy**
 - 🌏 I speak **two languages**!
 - 🐧 **Linux Lover** (I use Arch BTW!)
