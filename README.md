@@ -3,7 +3,7 @@ I'm Alvin, a first-year middle school student from Melbourne, Australia. Right n
 
 ### Fun facts about me...
 - 📝 My editor of choice is **Visual studio code** from Microsoft!
-- 💭 My dream job is being a **Programing language engineer at LLVM**!
+- 💭 My dream job is being a **Kernel engineer at Apple**!
 - 🍎 Loyal **Apple fanboy**
 - 🌏 I speak **two languages**!
 - 🐧 **Linux Lover** (I use Arch BTW!)
