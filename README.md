@@ -10,6 +10,4 @@ I'm Alvin, a first-year middle school student from Melbourne, Australia. Right n
 
 --- 
 
-*All of my projects on this Github page is completely free for all people visiting. No limitations of use and distribution. Please see project specific licenses for more information regarding legal rules and regulations.* 
-
-*For general inquires, development and coding emails, please email eventide1029@gmail.com; For school and education related communications please email ACHET@schools.vic.edu.au or CHE0674@balwynhs.vic.edu.au or via other means. Please refrain from using education emails for general inquires and messages as messages could be left unanswered for longer periods.*
+*All of my projects on this Github page is completely free for all people visiting. No limitations of use and distribution.*
