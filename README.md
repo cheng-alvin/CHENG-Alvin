@@ -7,7 +7,7 @@ I'm Alvin, a first-year middle school student from Melbourne, Australia. Right n
 - 🍎 Loyal **Apple fanboy**
 - 🌏 I speak **two languages**!
 - 🐧 **Linux Lover** (I use Arch BTW!)
-
+- ✈️ Travelled to 3 countries!
 --- 
 
 *All of my projects on this Github page is completely free for all people visiting. No limitations of use and distribution.*
