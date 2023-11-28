@@ -10,7 +10,7 @@ I'm Alvin, a first-year middle school student from Melbourne, Australia. Right n
 ### Fun facts about me...
 - 📝 My editor of choice is **Visual studio code** from Microsoft!
 - 💭 My dream job is being a **Kernel engineer at Apple**!                
-- 🍎 Loyal **Apple fanboy**.                                                                                <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3g5eHQ2N2JnMTh1OWhtNXpyeWpidDc0ZmE2MWx0bHN4dWZ2Mm53YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300" align="right" style="margin-right: 200px;">
+- 🍎 Loyal **Apple fanboy**.                                                                                                            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3g5eHQ2N2JnMTh1OWhtNXpyeWpidDc0ZmE2MWx0bHN4dWZ2Mm53YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeJgB3yMMwIaHmKD4z/giphy.gif" width="370" align="right">
 - 🌏 I speak **two languages**!
 - 🐧 **Linux Lover**. (I use Arch BTW!)
 - ✈️ Travelled to **3 countries**!
