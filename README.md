@@ -1,7 +1,7 @@
 ## 👋 G'day, welcome!
 I'm Alvin, a first-year middle school student from Melbourne, Australia. Right now, I'm passionately working on [Jas](https://github.com/cheng-alvin/jas), the assembler. In addition, I've also created numerous fun micro-projects of my own and even ran a coding club at my former school to help others. Passionate about low-level programming, assemblers, linkers, loaders and executables.
 
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="400" align="right"> 
+  <img padding="100px" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300" align="right"> 
 
 ### Fun facts about me...
 - 📝 My editor of choice is **Visual studio code** from Microsoft!
