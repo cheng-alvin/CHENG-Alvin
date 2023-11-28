@@ -27,8 +27,8 @@ I'm Alvin, a first-year middle school student from Melbourne, Australia. Right n
 - 📚 Become a full-stack engineer. ✅
 - 🍎 Work at Apple?!?
 
-### My tech
-
+### My open source story 📖
+I first started to learn how to program in early 2021 when the covid lockdowns were happening. With so much time in my hands I built up a rich set of tools and technologies. In August, I decided to create an account on this website named Github and contributed to many open source projects, of course, as a young developer, the adims looked at me in denial and reject PR after PR. Meanwhile I've also cooked up acouple more projects of my own, such as [Chill&chat](https://github.com/chillandchat) or [Roo-OS](https://github.com/cheng-alvin/Roo-OS) to further enhance my skills in Javascript and C. In late 2022, I also became a member of the [Dotenv](https://github.com/motdotla/dotenv) team helping to maintain the ensure the upkeep of the frameork's internals.
 
 --- 
 
