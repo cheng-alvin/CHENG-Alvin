@@ -1,16 +1,21 @@
 ## 👋 G'day, welcome!
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=cheng-alvin" alt="page views" />
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/15492585?color=orange&label=reputation&logo=stackoverflow"/>
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/cheng-alvin?color=green&logo=github">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+</p>
+
 I'm Alvin, a first-year middle school student from Melbourne, Australia. Right now, I'm passionately working on [Jas](https://github.com/cheng-alvin/jas), the assembler. In addition, I've also created numerous fun micro-projects of my own and even ran a coding club at my former school to help others. Passionate about low-level programming, assemblers, linkers, loaders and executables.
 
 ### Fun facts about me...
 - 📝 My editor of choice is **Visual studio code** from Microsoft!
-- 💭 My dream job is being a **Kernel engineer at Apple**!
-- 🍎 Loyal **Apple fanboy**.
+- 💭 My dream job is being a **Kernel engineer at Apple**!                
+- 🍎 Loyal **Apple fanboy**.                                                    ![]
 - 🌏 I speak **two languages**!
 - 🐧 **Linux Lover**. (I use Arch BTW!)
 - ✈️ Travelled to **3 countries**!
 - 👎 My least favourite language is **Rust**.
-<div  style="display: flex; align-items: center; text-align: right; height: 100vh; padding-left: 20px;" >
-   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="400"> </div>
 
 ### My Bucket-list 🪣
 - 💻 Write an assembler.
