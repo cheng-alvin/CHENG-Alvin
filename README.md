@@ -9,8 +9,8 @@ I'm Alvin, a first-year middle school student from Melbourne, Australia. Right n
 - 🐧 **Linux Lover**. (I use Arch BTW!)
 - ✈️ Travelled to **3 countries**!
 - 👎 My least favourite language is **Rust**.
-
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300" align="center"> 
+<div  style="display: flex; align-items: center; text-align: right; height: 100vh; padding-left: 20px;" >
+   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="400"> </div>
 
 ### My Bucket-list 🪣
 - 💻 Write an assembler.
