@@ -11,6 +11,14 @@ I'm Alvin, a first-year middle school student from Melbourne, Australia. Right n
 
 <img align="right" width="370" src="https://github.com/cheng-alvin/CHENG-Alvin/assets/88267875/70dd937e-c2a2-4f25-bf61-deef7240dfea" />
 
+<style>
+    @media (min-width: 768px) {
+        img {
+            display: block;
+        }
+    }
+</style>
+
 - 📝 My editor of choice is **Visual studio code** from Microsoft!
 - 💭 My dream job is being a **Kernel engineer at Apple**!                
 - 🍎 Loyal **Apple fanboy**.
