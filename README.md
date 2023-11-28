@@ -12,10 +12,10 @@ I'm Alvin, a first-year middle school student from Melbourne, Australia. Right n
 
 ### My Bucket-list 🪣
 - 💻 Write an assembler.
-- 📱 Write a mobile app.
-- 🇸🇬 Visit SG.
+- 📱 Write a mobile app. ✅
+- 🇸🇬 Visit SG. ✅
 - 💿 Write an operating system.
-- 📚 Become a full-stack engineer.
+- 📚 Become a full-stack engineer. ✅
 - 🍎 Work at Apple?!?
 --- 
 
