@@ -8,6 +8,9 @@
 I'm Alvin, a first-year middle school student from Melbourne, Australia. Right now, I'm passionately working on [Jas](https://github.com/cheng-alvin/jas), the assembler. In addition, I've also created numerous fun micro-projects of my own and even ran a coding club at my former school to help others. Passionate about low-level programming, assemblers, linkers, loaders and executables.
 
 ### Fun facts about me...
+
+<img align="right" width="300" src="https://github.com/cheng-alvin/CHENG-Alvin/assets/88267875/70dd937e-c2a2-4f25-bf61-deef7240dfea" />
+
 - 📝 My editor of choice is **Visual studio code** from Microsoft!
 - 💭 My dream job is being a **Kernel engineer at Apple**!                
 - 🍎 Loyal **Apple fanboy**.
@@ -23,6 +26,9 @@ I'm Alvin, a first-year middle school student from Melbourne, Australia. Right n
 - 💿 Write an operating system.
 - 📚 Become a full-stack engineer. ✅
 - 🍎 Work at Apple?!?
+
+### My tech
+
 
 --- 
 
