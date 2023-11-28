@@ -10,9 +10,7 @@ I'm Alvin, a first-year middle school student from Melbourne, Australia. Right n
 - ✈️ Travelled to **3 countries**!
 - 👎 My least favourite language is **Rust**.
 
-<p style="padding: 100px;">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300" align="right"> 
-</p>
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300" align="center"> 
 
 ### My Bucket-list 🪣
 - 💻 Write an assembler.
