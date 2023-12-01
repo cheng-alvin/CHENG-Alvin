@@ -23,6 +23,7 @@ I'm Alvin, a first-year middle school student from Melbourne, Australia. Right n
 - 🇸🇬 Visit SG. ✅
 - 💿 Write an operating system.
 - 📚 Become a full-stack engineer. ✅
+- 🦀 Write unsafe Rust code.
 - 🍎 Work at Apple?!?
 
 ### My open source story 📖
