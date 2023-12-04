@@ -17,15 +17,6 @@ I'm Alvin, a first-year middle school student from Melbourne, Australia. Right n
 - ✈️ Travelled to **3 countries**!
 - 👎 My least favourite language is **Rust**.
 
-### My Bucket-list 🪣
-- 💻 Write an assembler.
-- 📱 Write a mobile app. ✅
-- 🇸🇬 Visit SG. ✅
-- 💿 Write an operating system.
-- 📚 Become a full-stack engineer. ✅
-- 🦀 Write unsafe Rust code.
-- 🍎 Work at Apple?!?
-
 ### My open source story 📖
 I first started to learn how to program in early 2021 when the covid lockdowns were happening. With so much time in my hands I aquired a rich set of tools and technologies. In August, I decided to create an account on this website named Github and contributed to many open source projects, of course, as a young developer, the admins looked at me in denial and reject PR after PR. Meanwhile I've also cooked up acouple more projects of my own, such as [Chill&chat](https://github.com/chillandchat) or [Roo-OS](https://github.com/cheng-alvin/Roo-OS) to further enhance my skills in Javascript and C. In late 2022, I also became a member of the [Dotenv](https://github.com/motdotla/dotenv) team helping to maintain the ensure the upkeep of the frameork's internals. 
 
