@@ -8,14 +8,13 @@
 I'm Alvin, a first-year middle school student from Melbourne, Australia. Right now, I'm passionately working on [Jas](https://github.com/cheng-alvin/jas), the assembler. In addition, I've also created numerous fun micro-projects of my own and even ran a coding club at my former school to help others. Passionate about low-level programming, assemblers, linkers, loaders and executables.
 
 ### Fun facts about me...
-- 📝 My editor of choice is **Visual studio code** from Microsoft!
-- 💭 My dream job is being a **Kernel engineer at Apple**!                
+- 📝 Loves **Visual studio code** from Microsoft!
+- 💭 Dreams of being a **Kernel engineer at Apple**!                
 - 🍎 Loyal **Apple fanboy**.
-- 🌏 I speak **two languages**!
+- 🌏 Speaks **two languages**!
 - 🐧 **Linux Lover**. (I use Arch BTW!)
 - ✈️ Travelled to **3 countries**!
-- 👎 My least favourite language is **Rust**.
-
+  
 ### My open source story 📖
 I first started to learn how to program in early 2021 when the covid lockdowns were happening. With so much time in my hands I aquired a rich set of tools and technologies. In August, I decided to create an account on this website named Github and contributed to many open source projects, of course, as a young developer, the admins looked at me in denial and reject PR after PR. Meanwhile I've also cooked up acouple more projects of my own, such as [Chill&chat](https://github.com/chillandchat) or [Roo-OS](https://github.com/cheng-alvin/Roo-OS) to further enhance my skills in Javascript and C. In late 2022, I also became a member of the [Dotenv](https://github.com/motdotla/dotenv) team helping to maintain the ensure the upkeep of the frameork's internals. 
 
