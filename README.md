@@ -1,4 +1,4 @@
-## 👋 G'day, welcome!
+## 👋 Welcome to my corner of the internet!
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=cheng-alvin" alt="page views" />
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/15492585?color=orange&label=reputation&logo=stackoverflow"/>
