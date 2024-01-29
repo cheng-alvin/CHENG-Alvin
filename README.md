@@ -12,7 +12,7 @@ I'm Alvin, a second-year middle school student from Melbourne, Australia. Right 
 - 💭 Dreams of being a **Engineer at Apple**!                
 - 🍎 Loyal **Apple fanboy**.
 - 🌏 Speaks **two languages**!
-- 👨‍✈️ Loves **aviation**
+- ❤️ Loves **aviation**
 - 🐧 **Linux Lover**. (I use Arch BTW!)
 - ✈️ Travelled to **3 countries**!
   
