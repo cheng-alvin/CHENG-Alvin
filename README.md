@@ -5,7 +5,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/cheng-alvin?color=green&logo=github">
 </p>
 
-I'm Alvin, a second-year middle school student from Melbourne, Australia. Right now, I'm passionately working on [Jas](https://github.com/cheng-alvin/jas). In addition, I've also created numerous fun micro-projects of my own and even ran a coding club at my former school to help others. Passionate about everything software.
+I'm Alvin, a second-year middle school student from Melbourne, Australia. Right now, I'm passionately working on low level programming projects. In addition, I've also created numerous fun micro-projects of my own and even ran a coding club at my former school to help others. Passionate about everything software.
 
 ### Fun facts about me...
 - 📝 Loves **Visual studio code** from Microsoft!
