@@ -9,7 +9,7 @@ I'm Alvin, a second-year middle school student from Melbourne, Australia. Right 
 
 ### Fun facts about me...
 - 📝 Loves **Visual studio code** from Microsoft!
-- 💭 Dreams of being a **Flight engineer on the A350**!                
+- 💭 Dreams of being a **Captain on the Airbus A350**!                
 - 🍎 Loyal **Apple fanboy**.
 - 🌏 Speaks **two languages**!
 - ❤️ Loves **aviation**!
