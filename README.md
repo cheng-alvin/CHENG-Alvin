@@ -20,7 +20,7 @@ I'm Alvin, a second-year middle school student from Melbourne, Australia. Right 
 I first started to learn how to program in early 2021 when the COVID lockdowns were happening. With so much time on my hands, I acquired a rich set of tools and technologies. In August, I decided to create an account on this website named GitHub and contributed to many open-source projects, of course, as a young developer, the PR reviewers looked at me in denial and rejected PR after PR. Meanwhile, I've also cooked up a couple more projects of my own, such as [Chill&chat](https://github.com/chillandchat) or [Roo-OS](https://github.com/cheng-alvin/Roo-OS) to further enhance my skills in Javascript and C. In late 2022, I also became a member of the [Dotenv](https://github.com/motdotla/dotenv) team helping to ensure the upkeep of the framework's internals. In 2023, I started to work on the [Jas assembler](https://github.com/cheng-alvin/jas) project to expand my knowledge on low-level software engineering as well as programming in C (also causing many segmentation faults.) and the x86 assembler language.
 
 ### Future plans 🔮
-In the future, I look forward to continuing my projects and even starting new projects, while continuing flight training and working in the airline industry. My open source is a simple small hobby thing I do, expanding my knowledge in the world of computer science and programming.
+In the future, I look forward to continuing my projects and even starting new projects, while continuing flight training and pursue a career in the airline industry. My open source is a simple small hobby thing I do, expanding my knowledge in the world of computer science and programming.
 
 --- 
 
