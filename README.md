@@ -16,13 +16,6 @@ I'm Alvin, a second-year middle school student from Melbourne, Australia. Right 
 - 🐧 **Linux Lover**. (I use Arch BTW!)
 - ✈️ Travelled to **3 countries**! 🇸🇬🇲🇾🇨🇳
 
-### My tech-stack
-- 📃 Javascript/Typescript
-- ⚛️ React/React Native
-- 💻 C/C++
-- 🖥️ x86 assembly
-- 🐍 Python
-- 🍎 Swift/iOS development
 --- 
 
 *All of my projects on this GitHub page are completely free for all people visiting. No limitations on use and distribution.*
