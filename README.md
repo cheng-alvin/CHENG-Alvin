@@ -7,13 +7,11 @@
 
 I'm Alvin, a second-year middle school student from Melbourne, Australia. Right now, I'm passionately working on [jas](https://github.com/cheng-alvin/jas). In addition, I've also created numerous fun micro-projects of my own and even ran a coding club at my former school to help others. Passionate about everything software and aviation
 
-### Fun facts about me...
 - 📝 Loves **Visual studio code** from Microsoft!
-- 💭 Dreams of being a **Captain on the Airbus A350**!                
+- 💭 Dreams of becoming a **professional aviator**!                
 - 🍎 Loyal **Apple fanboy**.
 - 🌏 Speaks **two languages**!
-- ❤️ Loves **aviation**!
-- 🐧 **Linux Lover**. (I use Arch BTW!)
+- 🐧 **Linux Lover**. 
 - ✈️ Travelled to **3 countries**! 🇸🇬🇲🇾🇨🇳
 
 --- 
