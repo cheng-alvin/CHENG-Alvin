@@ -12,7 +12,7 @@ I'm Alvin, a second-year middle school student from Melbourne, Australia. Right 
 - 🍎 Loyal **Apple fanboy**.
 - 🌏 Speaks **two languages**!
 - 🐧 **Linux Lover**. 
-- ✈️ Travelled to **3 countries**! 🇸🇬🇲🇾🇨🇳
+- ✈️ Travelled to: 🇸🇬🇲🇾🇨🇳.
 
 --- 
 
