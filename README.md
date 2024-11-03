@@ -12,8 +12,7 @@ I'm Alvin, a second-year middle school student from Melbourne, Australia. Right 
 - 🌏 Speaks **two languages**!
 - 🐧 **Linux Lover**. 
 - ✈️ Travelled to: 🇸🇬🇲🇾🇨🇳🇭🇰🇲🇴.
-- 💻 Writes code on a **M3 Pro 14" Macbook Pro**
-
+  
 --- 
 
 *All of my projects on this GitHub page are completely free for all people visiting. No limitations on use and distribution.*
