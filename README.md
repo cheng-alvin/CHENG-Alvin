@@ -2,7 +2,6 @@
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=cheng-alvin" alt="page views" />
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/15492585?color=orange&label=reputation&logo=stackoverflow"/>
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/cheng-alvin?color=green&logo=github"/>
     <img alt="Reddit Karma" src="https://img.shields.io/reddit/user-karma/combined/cheng-alvin"/>
 </p>
 
