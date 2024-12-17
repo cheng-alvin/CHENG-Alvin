@@ -24,7 +24,7 @@ I'm Alvin, a second-year middle school student from Melbourne, Australia. Right 
 I have major respect for anybody who writes assemblers for x86, it's something really insane honestly considering the complexity of the architecture compared to risc"
 > — [**UnmappedStack**](https://github.com/UnmappedStack), Kernel developer
 
-Well, if you're interested with this project, check it out [here](https://github.com/cheng-alvin/jas/)
+Well, if you're interested with this project, check it out [here](https://github.com/cheng-alvin/jas/) 🙌🙌🙌
 
 --- 
 
