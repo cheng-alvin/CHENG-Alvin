@@ -14,10 +14,10 @@ I'm Alvin, a second-year middle school student from Melbourne, Australia. Right 
 - ✈️ Travelled to: 🇸🇬🇲🇾🇨🇳🇭🇰🇲🇴.
 
 ### What others are saying
-> "[...] The readme page is georgeous, the first impression is extremely positive. [...] The code is vert easy to read and it seems [to] support all the common instructions already, I like it!"
+> "[...] The readme page is georgeous, the first impression is extremely positive. [...] The code is ver[y] easy to read and it seems [to] support all the common instructions already, I like it!"
 > — **perschrijver**  
 
-> "Bro this is gold! So glad I found this subreddit. It's full of bright devs like OP. Awesome work!! Low-level [developers] UNITE! :D"  
+> "Bro this is gold! So glad I found this subreddit. It's full of bright devs like OP. Awesome work!! Low-level devs UNITE! :D"  
 > — **u/disassembler123**
 
 > "that's a really awesome project
