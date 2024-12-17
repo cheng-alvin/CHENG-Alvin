@@ -18,11 +18,11 @@ I'm Alvin, a second-year middle school student from Melbourne, Australia. Right 
 > — **perschrijver**  
 
 > "Bro this is gold! So glad I found this subreddit. It's full of bright devs like OP. Awesome work!! Low-level devs UNITE! :D"  
-> — **u/disassembler123**
+> — [**u/disassembler123**](https://www.reddit.com/user/disassembler123/)
 
 > "that's a really awesome project
 I have major respect for anybody who writes assemblers for x86, it's something really insane honestly considering the complexity of the architecture compared to risc"
-> — [**.jakedoesstuff**](https://github.com/UnmappedStack)
+> — [**UnmappedStack**](https://github.com/UnmappedStack), Low level operating system kernel engineer
 
 Well, if you're interested with this project, check it out [here](https://github.com/cheng-alvin/jas/)
 
