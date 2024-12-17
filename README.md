@@ -14,7 +14,7 @@ I'm Alvin, a second-year middle school student from Melbourne, Australia. Right 
 - ✈️ Travelled to: 🇸🇬🇲🇾🇨🇳🇭🇰🇲🇴.
 
 ### What others are saying
-> "It is still much appreciated! The readme page is georgeous, the first impression is extremely positive. ... The code is vert easy to read and it seems it supports all the common instructions already, I like it!"
+> "[...] The readme page is georgeous, the first impression is extremely positive. [...] The code is vert easy to read and it seems [to] support all the common instructions already, I like it!"
 > — **perschrijver**  
 
 > "Bro this is gold! So glad I found this subreddit. It's full of bright devs like OP. Awesome work!! Low-level devs UNITE! :D"  
