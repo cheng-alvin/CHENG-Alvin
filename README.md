@@ -27,7 +27,7 @@ I have major respect for anybody who writes assemblers for x86, it's something r
 > "Woah dude, that's amazing. I've checked both Jas and Brainfry and they are such incredible projects. Congrats Brainfry being 7.46kb it's stunning"
 >  — [**u/Noel_Em**](https://www.reddit.com/user/Noel_Em/)
 
-Well, if you're interested with this project, check it out [here](https://github.com/cheng-alvin/jas/) 🙌
+**If you're interested with this project, check it out [here](https://github.com/cheng-alvin/jas/) 🙌**
 
 --- 
 
