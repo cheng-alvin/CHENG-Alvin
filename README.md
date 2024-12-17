@@ -13,6 +13,14 @@ I'm Alvin, a second-year middle school student from Melbourne, Australia. Right 
 - 🐧 **Linux Lover**. 
 - ✈️ Travelled to: 🇸🇬🇲🇾🇨🇳🇭🇰🇲🇴.
 
+### What others are saying
+> "Woah dude, that's amazing. I've checked both Jas and Brainfry and they are such incredible projects. Congrats Brainfry being 7.46kb it's stunning!"  
+> — **u/Noel_Em**
+
+> "Bro this is gold! So glad I found this subreddit. It's full of bright devs like OP. Awesome work!! Low-level devs UNITE! :D"  
+> — **u/disassembler123**  
+
+
 --- 
 
 *All of my projects on this GitHub page are completely free for all people visiting. No limitations on use and distribution.*
