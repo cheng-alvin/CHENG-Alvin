@@ -13,7 +13,7 @@ I'm Alvin, a second-year middle school student from Melbourne, Australia. Right 
 - 🐧 **Linux Lover**. 
 - ✈️ Travelled to: 🇸🇬🇲🇾🇨🇳🇭🇰🇲🇴.
 
-### What others are saying
+### What others are saying about my work
 > "[...] The readme page is georgeous, the first impression is extremely positive. [...] The code is ver[y] easy to read and it seems [to] support all the common instructions already, I like it!"
 > — **perschrijver**  
 
@@ -24,6 +24,7 @@ I'm Alvin, a second-year middle school student from Melbourne, Australia. Right 
 I have major respect for anybody who writes assemblers for x86, it's something really insane honestly considering the complexity of the architecture compared to risc"
 > — **.jakedoesstuff**
 
+Well, if you're interested with this project, check it out [here](https://github.com/cheng-alvin/jas/)
 
 --- 
 
