@@ -11,7 +11,7 @@ I'm Alvin, a third-year middle school student from Melbourne, Australia. I am a 
 - 🍎 Loyal **Apple fanboy**.
 - 🌏 Speaks **two languages**!
 - 🐧 **Linux Lover**. 
-- ✈️ Travelled to: 🇸🇬🇲🇾🇨🇳🇭🇰🇲🇴.
+- ✈️ Travelled to: 🇸🇬🇲🇾🇨🇳🇭🇰🇲🇴🇫🇯.
 
 ### What others are saying about my work
 > "[...] The readme page is georgeous, the first impression is extremely positive. [...] The code is ver[y] easy to read and it seems [to] support all the common instructions already, I like it!"
