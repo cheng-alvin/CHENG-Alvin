@@ -5,7 +5,7 @@
     <img alt="Reddit Karma" src="https://img.shields.io/reddit/user-karma/combined/cheng-alvin"/>
 </p>
 
-I'm Alvin, a third-year middle school student from Melbourne, Australia. I am a passionate programmer, and plane spotter, and I've also created numerous fun micro-projects of my own and even ran a coding club at my former school to help others. Talk to me about everything software and aviation.
+I'm Alvin, a high student from Melbourne, Australia. I am a passionate programmer, and plane spotter, and I've also created numerous fun micro-projects of my own and even ran a coding club at my former school to help others. Talk to me about everything software and aviation.
 
 - 📝 Loves **Visual studio code** from Microsoft!              
 - 🍎 Loyal **Apple fanboy**.
