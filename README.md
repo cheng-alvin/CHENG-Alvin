@@ -11,7 +11,6 @@ I'm Alvin, a high student from Melbourne, Australia. I am a passionate programme
 - 🍎 Loyal **Apple fanboy**.
 - 🌏 Speaks **two languages**!
 - 🐧 **Linux Lover**.
-- 🛩️ (un)certified on the **Cessna 172**
 - ✈️ Travelled to: 🇸🇬🇲🇾🇨🇳🇭🇰🇲🇴🇫🇯🇳🇿.
 
 ### What others are saying about my work
