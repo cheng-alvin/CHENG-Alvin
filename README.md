@@ -5,7 +5,7 @@
     <img alt="Reddit Karma" src="https://img.shields.io/reddit/user-karma/combined/cheng-alvin"/>
 </p>
 
-I'm Alvin, a high student from Melbourne, Australia. I am a passionate open source developer and I've also created numerous fun micro-projects of my own and even ran a coding club at my former school to help others. Talk to me about everything software and aviation.
+Hi I'm Alvin, nice to *"meet"* you! I am a high student from Melbourne, Australia. I am a passionate open source developer who loves to publish my projects online! I've taken part in an internship at [@Canva](https://www.canva.com/), and even ran a coding club at my school to help others! Talk to me about everything software and aviation.
 
 - 📝 Loves **Visual studio code** from Microsoft!              
 - 🍎 Loyal **Apple fanboy**.
